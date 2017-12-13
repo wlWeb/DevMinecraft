@@ -1,0 +1,11 @@
+[{
+  "modid": "templatebase",
+  "name": "Template Mod",
+  "description": "Mod to get my head around things and create a base with comments",
+  "version": "0.0.1",
+  "mcversion": "1.12.1",
+  "logoFile": "",
+  "url": "minecraftforge.net/",
+  "updateJSON": " ",
+  "authorList": ["WhisperedLullaby"],
+}]
