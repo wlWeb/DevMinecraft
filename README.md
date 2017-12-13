@@ -26,6 +26,10 @@ Run that with the following settings:
   Then take this repository and replace the files in 'src' and it'll be the same. A further exploration of the correct
   source control method will be done soon.
   
+  ***UPDATE*** As I further understand this. It is recommended that you REPLACE that files in 'src' with the BaseTemplate folder. 
+  This is what you actually edit and what you see in your eclipse folder. Requests for teamViewer should this go in an odd
+  direction will be gladly accepted.
+  
 
 Some useful documentation. http://mcforge.readthedocs.io/en/latest/
 
